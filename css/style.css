@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0 5px 0 5px;
+}
+
+li {
+    display: flex;
+    /* justify-content: space-between; */
+    padding: 5px 10px;
+}
+
+.set-status {
+    margin-left: auto;
+    margin-right: 5%;
+}
+
+li .hide {
+    display: none;
+}
